@@ -9,3 +9,5 @@ This repository contains my solutions and notes from the JavaScript30 course in 
 > I also used this written guide by [Nitish Dayal](https://github.com/nitishdayal/JavaScript30) supplement my learning
 
 I tried to solve each of the tasks without referencing the provided solutions, which is why my approach should vary from them a bit. That being said, at least at first, my solutions will be very similar to the provided answers and vary as I become more acquainted with JavaScript.
+
+Put on pause 6/3/2020
